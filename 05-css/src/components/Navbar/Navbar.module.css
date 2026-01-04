@@ -1,0 +1,19 @@
+.navbar {
+    background-color: transparent;
+    /* border: 2px solid white; */
+    padding: 10px 20px;
+    margin: 15px;
+    border-radius: 100px;
+    display: flex;
+}
+
+.right {
+    margin-left: auto;
+    display: flex;
+    gap: 20px;
+}
+
+p {
+    cursor: default;
+    font-weight: 500;
+}
