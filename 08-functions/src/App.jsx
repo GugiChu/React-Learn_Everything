@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const App = () => {
   const mouseFollower = (e) => {
     const pointer = document.querySelector(".pointer");
